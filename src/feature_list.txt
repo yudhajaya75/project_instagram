@@ -1,0 +1,5 @@
+featureslist:
+- post 
+- messages
+- notification
+
